@@ -1,9 +1,10 @@
 {
-    "recommendations": [
-        "zixuanchen.vitest-explorer",
-        "vue.vscode-typescript-vue-plugin",
-        "vue.volar",
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode"
-    ]
+  "recommendations": [
+    "zixuanchen.vitest-explorer",
+    "vue.vscode-typescript-vue-plugin",
+    "vue.volar",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig"
+  ]
 }
